@@ -1,0 +1,6 @@
+Light Bedroom 0 100 0
+PlugSocket Charger 0 11 15 1
+Radiator Towels 0 34.000000 10 11
+Speaker DJ 1 60
+TempSensor GeckoRoom 1 22 41
+Thermostat Hallway 0 11 16
